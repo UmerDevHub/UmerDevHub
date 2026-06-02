@@ -126,13 +126,7 @@ const developer = {
 
 ---
 
-### 🏆 Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UmerDevHub&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4"/>
-</div>
-
----
 
 ### 🎯 2026 Goals
 
