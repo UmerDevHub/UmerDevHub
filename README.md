@@ -53,6 +53,19 @@ const developer = {
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>📓 Pocket Journal</h3>
+      <img src="https://img.shields.io/badge/Google_Play-Published-3DDC84?style=flat-square&logo=google-play&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Downloads-10%2B-blue?style=flat-square"/>
+      <br/><br/>
+      <p>Offline-first personal journal app with mood tracking, streak counter, writing prompts, and a statistics dashboard. 100% private — all data stored locally on device.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      </p>
+      <a href="https://github.com/UmerDevHub/pocket-journal-app">→ View Repo</a> · <a href="https://play.google.com/store/apps/details?id=com.umer.pocketjournal.app2026&hl=en">→ Play Store</a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🚗 Carpool</h3>
       <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
       <img src="https://img.shields.io/badge/Status-Complete-2ea44f?style=flat-square"/>
@@ -65,46 +78,33 @@ const developer = {
       </p>
       <a href="https://github.com/UmerDevHub/Carpool">→ View Repo</a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>❤️ Heart Disease Predictor</h3>
+      <img src="https://img.shields.io/badge/Best%20Accuracy-96.6%25%20RF-2ea44f?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Streamlit-Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      <br/><br/>
+      <p>Predicts heart disease risk using 6 ML algorithms. Random Forest achieved 96.6% accuracy. Live Streamlit app with real patient prediction.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      </p>
+      <a href="https://github.com/UmerDevHub/heart-disease-predictor">→ View Repo</a> · <a href="https://heartsdisease-predictor.streamlit.app/">→ Live Demo</a>
+    </td>
     <td width="50%" valign="top">
       <h3>📰 Fake News Predictor</h3>
-      <img src="https://img.shields.io/badge/Accuracy-check repo-blue?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Type-ML%20Classifier-orange?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Type-NLP%20Classifier-orange?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Dataset-44K%20Articles-blue?style=flat-square"/>
       <br/><br/>
-      <p>Machine learning model that classifies news articles as real or fake. Built with NLP techniques and trained on labeled news datasets.</p>
+      <p>Classifies news articles as real or fake using TF-IDF, Chi-squared feature selection, and 3 ML models compared. Built with full 8-phase ML pipeline.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
         <img src="https://img.shields.io/badge/NLP-grey?style=flat-square"/>
       </p>
       <a href="https://github.com/UmerDevHub/Fake-news-predictor">→ View Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>❤️ Heart Disease Predictor</h3>
-      <img src="https://img.shields.io/badge/Type-ML%20Classifier-red?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Status-Complete-2ea44f?style=flat-square"/>
-      <br/><br/>
-      <p>Predicts the likelihood of heart disease based on patient health metrics. Uses classification algorithms with a clean data pipeline.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      </p>
-      <a href="https://github.com/UmerDevHub/heart-disease-predictor">→ View Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌤️ Weather App</h3>
-      <img src="https://img.shields.io/badge/Status-Live soon-yellow?style=flat-square"/>
-      <img src="https://img.shields.io/badge/API-OpenWeatherMap-blue?style=flat-square"/>
-      <br/><br/>
-      <p>Real-time weather app. Search any city to get live temperature, humidity, wind speed, and weather icons. Fully responsive design.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <a href="https://github.com/UmerDevHub/Weather-Frontend">→ View Repo</a>
     </td>
   </tr>
 </table>
