@@ -114,16 +114,11 @@ const developer = {
 ### 📊 Stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=UmerDevHub&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmerDevHub&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=58a6ff&bg_color=0d1117"/>
-
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=UmerDevHub&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UmerDevHub&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=58a6ff&bg_color=0d1117"/>
 <br/><br/>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=UmerDevHub&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
-
 </div>
-
 ---
 
 
