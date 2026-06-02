@@ -107,6 +107,24 @@ const developer = {
       <a href="https://github.com/UmerDevHub/Fake-news-predictor">→ View Repo</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⌚ Watchify Store</h3>
+      <img src="https://img.shields.io/badge/Platform-Railway-0B0D19?style=flat-square&logo=railway&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square"/>
+      <br/><br/>
+      <p>Full-stack watch e-commerce platform featuring a sleek customer storefront and a robust admin dashboard for product management, inventory tracking, and order control.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+      </p>
+      <a href="https://github.com/UmerDevHub/watch-ecommerce-website">→ View Repo</a> · <a href="https://watchifystore-production.up.railway.app/home">→ Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Empty slot for your next project -->
+    </td>
+  </tr>
 </table>
 
 ---
