@@ -122,7 +122,17 @@ const developer = {
       <a href="https://github.com/UmerDevHub/watch-ecommerce-website">→ View Repo</a> · <a href="https://watchifystore-production.up.railway.app/home">→ Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <!-- Empty slot for your next project -->
+      <h3>🌤️ Weather App</h3>
+      <img src="https://img.shields.io/badge/Platform-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square"/>
+      <br/><br/>
+      <p>Upgraded weather dashboard featuring a glassmorphism interface. Supports auto-geolocation, extended multi-day forecasts, and a secure serverless backend proxy to keep API keys completely private.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+      <a href="https://github.com/UmerDevHub/Weather-Frontend">→ View Repo</a> · <a href="https://weather-frontend-psi-fawn.vercel.app/">→ Live Demo</a>
     </td>
   </tr>
 </table>
